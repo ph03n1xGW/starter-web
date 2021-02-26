@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work together.
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ## Introduction
 
@@ -9,6 +10,7 @@ This is example is to show different parts of the git repository and various com
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for git training demos.
+QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
 
 ## Deployment
 
