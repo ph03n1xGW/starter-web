@@ -16,6 +16,8 @@ This is a simple web project, deoployment can be on any web server or even local
 
 ## How To Contribute
 
+Please for this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2021 Git.Training
